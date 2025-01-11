@@ -56,12 +56,8 @@ The GUI is designed to be intuitive and easy to use, making it accessible for be
 - `project.m`: Main script file containing the callback functions for GUI operations.
 - `.fig` files: GUI layout and design.
 - Supporting files: Additional scripts for specific image processing tasks.
+- `Gui_interface` : photo to show what the interface looks like
 
-## Screenshots
-Include screenshots of the GUI here to showcase its interface and capabilities.
-
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 
 ## Contributing
 Contributions are welcome! Feel free to fork the repository, make improvements, and submit pull requests.
@@ -71,5 +67,11 @@ Contributions are welcome! Feel free to fork the repository, make improvements, 
 - Digital image processing concepts inspired by [Digital Image Processing - MATLAB & Simulink](https://www.mathworks.com/discovery/digital-image-processing.html).
 
 ---
+## Contact
 
-Happy coding! 🚀
+GitHub: naso7y
+
+Email: ahmed.noshy2004@gmail.com
+
+LinkedIn: [LinkedIn](https://www.linkedin.com/in/nos7y/)
+
